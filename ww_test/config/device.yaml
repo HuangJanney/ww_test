@@ -1,0 +1,17 @@
+
+device:
+  platform: Android
+  deviceId: ''
+  # platform: Windows
+  # deviceId: 'HiFunClien'
+  appPackage: 'com.mico.simsparty.wonderworld'
+
+
+other_device:
+  platform: Android
+  deviceId: '7bf112d8'
+  # platform: Windows
+  # deviceId: 'HiFunClien'
+  appPackage: 'com.mico.simsparty.wonderworld'
+
+
